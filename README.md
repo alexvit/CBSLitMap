@@ -1,3 +1,5 @@
+This is an interactive map and report for Corporate and Business strategy literature. It presents all papers from the course as a scatterplot based on citation similarity (tab1 of the dashboard) and as a citation graph (tab2 of the dashboard). Below are my notes on motivation, technology used, and plans for further development. You can also find these notes in tab3 of the dashboard. The Shiny app is available via the link: 
+
 **Motivation**  
 *I choose this form for the mindmap assignment because I wanted to:*  
 

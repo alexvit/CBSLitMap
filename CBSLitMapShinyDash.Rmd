@@ -9,6 +9,7 @@ resource_files:
 - strategyVSLearning.png
 - strategyVSLearningS.png
 - commonThemes.png
+- twinPapers.png
 ---
 
 ```{r}
@@ -327,7 +328,7 @@ renderDT({
 6. Instead of multidimensional scaling, I am going to try correspondence analysis for tab1. I believe it can provide more meaningful interpretation of the dimension space.
 7. It is also feasible to allow a user to upload personal zotero library in the interface and get the same analysis for this. But for my personal use, I'm satisfied with doing it with code as it takes only a couple of minutes.
 
-The code is available at my GitHub: 
+The code is available at my GitHub: https://github.com/alexvit/CBSLitMap.git 
 </font>  
 
 
